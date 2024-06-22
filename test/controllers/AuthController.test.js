@@ -1,3 +1,4 @@
+/* eslint-disable func-names */
 /* eslint-disable jest/no-standalone-expect */
 /* eslint-disable no-unused-expressions */
 /* eslint-disable jest/prefer-expect-assertions */
