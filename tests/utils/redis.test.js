@@ -10,6 +10,7 @@ import { expect } from 'chai';
 import redisClient from '../../utils/redis';
 
 describe('+ RedisClient utility', () => {
+  // eslint-disable-next-line func-names
   before(function (done) {
     this.timeout(10000);
     setTimeout(done, 4000);

@@ -1,3 +1,4 @@
+/* eslint-disable func-names */
 /* eslint-disable consistent-return */
 /* eslint-disable no-unused-expressions */
 /* eslint-disable jest/no-test-return-statement */

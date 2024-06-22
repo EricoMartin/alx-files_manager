@@ -1,5 +1,5 @@
 import base64
-import requests
+import requests # type: ignore
 import sys
 
 file_path = sys.argv[1]
